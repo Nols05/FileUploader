@@ -9,7 +9,10 @@ import uploadRouter from './routes/uploadRouter.js';
 import foldersRouter from './routes/foldersRouter.js';
 import searchRouter from './routes/searchRouter.js';
 import passportLocal from 'passport-local';
+import dotenv from 'dotenv';
 
+
+dotenv.config();
 
 
 const app = express();
