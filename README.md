@@ -5,4 +5,4 @@ A Google Drive clone I did to practice my skills.
 - Tech used: ExpressJS, EJS templates with TailwindCSS, postgreSQL with PrismaORM
 
 You can access the project following this link:
-ordinary-thin-passbook.glitch.me/signup
+https://ordinary-thin-passbook.glitch.me/signup
